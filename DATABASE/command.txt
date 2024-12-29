@@ -1,0 +1,2 @@
+//to search every country ending with a
+select country from world_food where country like '%'||'a';

@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind componentes;
+@tailwind utilities;
+
+h1{
+    color:  pink;
+    
+}

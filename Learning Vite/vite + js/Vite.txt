@@ -1,0 +1,3 @@
+  What is Vite??
+->Vite is a framework used to create native apps which we created using create-app, Vite is a lot faster and does not downloads modules like in ceate-app;
+

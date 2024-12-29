@@ -1,0 +1,13 @@
+Good afternoon everyone. My name is Susheel Kumar Rai, and I hail from Khalilabad, Uttar Pradesh. It is known for its bustling marketplace, the Bardahiya Bazaar.
+
+I live in a nuclear family of four: myself, my father, mother, and brother.  My father works as a contractor, while my mother is a homemaker.
+
+I completed my 10th grade at St. Thomas Inter College and my 12th grade at Woodland Academy. Currently, I'm pursuing a BTech degree in Computer Science Engineering at Abes Engineering College.
+
+In addition to my academic studies, I've actively developed my technical skills. I've honed my proficiency in Data Structures and Algorithms using C++, and recently completed a full-stack web development course.  To showcase my learning, I've built projects like the React_contact App, Abes Integrated Survey Portal, Spark Cast, and a note_keeper app.
+
+I possess strong decision-making abilities and can adapt to diverse work environments.  I'm a quick learner, highly motivated, and results-oriented. I'm comfortable working both independently and as part of a team.
+
+While I sometimes take on too much responsibility at once, I'm actively improving it by taking note of all my tasks, personal and professional. This helps me to visualize my workload.
+
+Thank you for your time.

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+canvas{
+    height: 100vh !important;
+    margin: 2px;
+    padding: 5px;
+}
+body{
+    background-color: slategray;
+}
+.container{
+    position: relative;
+    top: -300px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: lightpink;
+    color: black;
+    border-radius: 20px;
+}

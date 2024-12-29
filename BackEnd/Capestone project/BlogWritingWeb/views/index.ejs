@@ -1,0 +1,23 @@
+
+
+<%- include("partials/header.ejs") %>
+    <%if(!result){ %>
+        <h1>Blog Your Feelings✍🏼</h1>
+        
+        <br>
+        <h1 id="head">Welcome to the amazing world of writing blogs!</h1>
+        <p>Writing blog is a good practice where a person can express his <strong>knowledge/feeling </strong> about a something specific. Blog is a way to spread your thoughts and feeling about any Topic you want to write blog about Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, eaque voluptates dicta sunt, aliquid optio assumenda odio repellat officia, impedit corporis expedita aut est! Doloribus cumque similique minima, ea placeat accusamus facere!</p>
+        
+        <div class="blog-section">
+            <label for="blog-writing">Write your Blog Here!</label>
+            <input type="text">
+            <form action="/submit" method="POST">
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    
+    <% } else { %>
+        <h1>This is your Blog!</h1>
+        <p><%= result %></p>
+        <% } %>
+        <%- include("partials/footer.ejs") %>
